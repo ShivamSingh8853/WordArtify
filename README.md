@@ -46,5 +46,5 @@ $npm start
 
 
 <p style="text-align:center;">
-    Made with ❤️ by iitiansuyash
+    Made with ❤️ by Shivam Singh
 </p>
